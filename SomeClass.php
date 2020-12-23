@@ -19,5 +19,6 @@ class SomeClass
     public function upgradeCommit1()
     {
         //commmit 1 for upgrade
+        //commit 2 for upgrade
     }
 }
