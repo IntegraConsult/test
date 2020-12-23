@@ -15,4 +15,9 @@ class SomeClass
     public function niceStuffforV57(){
         // this was committed into the 5.7 branch
     }
+
+    public function upgradeCommit1()
+    {
+        //commmit 1 for upgrade
+    }
 }
